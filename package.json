@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@gltf-transform/core": "^3.10.0",
+    "@gltf-transform/extensions": "^3.10.0",
+    "@gltf-transform/functions": "^3.10.0",
+    "fs-extra": "^11.2.0",
+    "gltf-pipeline": "^4.1.0",
+    "gltfpack": "^0.20.0"
+  }
+}
