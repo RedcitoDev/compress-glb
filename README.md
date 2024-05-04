@@ -32,6 +32,13 @@ gltf-transform optimize input.glb output.glb --compress draco --texture-compress
 git clone https://github.com/RedcitoDev/compress-glb.git
 ```
 
+### 3.1 Instalar dependencias
+
+Tenemos que tener en cuenta que como usamos node para la creacion de este compresor, tenemos que instalar las dependencias para que el programa funcione de manera correcta
+```
+npm install
+```
+
 ### 4. Preparación
 
 - Localiza la carpeta del repositorio clonado en tu sistema.
