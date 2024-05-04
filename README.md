@@ -46,6 +46,15 @@ npm install
 ### 5. Ejecución
 
 - Abre tu terminal y navega hasta la carpeta donde clonaste el repositorio.
+- Crea las carpetas de entrada y salida ya que en el codigo los tiene por defecto asi
+
+```
+const inputDirectory = './glb';
+const outputDirectory = './compressed_glb';
+```
+
+>No te preocupes si no creas la de salida, solo procura tener la carpeta #glb
+
 - Ejecuta el siguiente comando:
 ```
 node compress.js
