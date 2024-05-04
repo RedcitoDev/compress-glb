@@ -53,7 +53,7 @@ const inputDirectory = './glb';
 const outputDirectory = './compressed_glb';
 ```
 
->No te preocupes si no creas la de salida, solo procura tener la carpeta #glb
+>No te preocupes si no creas la de salida, solo procura tener la carpeta "glb"
 
 - Ejecuta el siguiente comando:
 ```
